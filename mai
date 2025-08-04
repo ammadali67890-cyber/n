@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>آئی فون 12 پرو کی خوبیاں</title>
+  <style>
+    body {
+      font-family: 'Noto Nastaliq Urdu', serif;
+      background-color: #f4f4f9;
+      color: #212121;
+      line-height: 1.8;
+      padding: 20px;
+      margin: 0;
+    }
+    h1, h2, h3 {
+      text-align: center;
+      color: #007aff;
+    }
+    h1 {
+      font-size: 2.5em;
+    }
+    h2 {
+      font-size: 2em;
+      margin-top: 20px;
+    }
+    h3 {
+      font-size: 1.5em;
+      margin-top: 10px;
+    }
+    ul {
+      list-style-type: square;
+      padding-right: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .highlight {
+      color: #ff9500;
+      font-weight: bold;
+    }
+    .cta {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .cta button {
+      background-color: #007aff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1.2em;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .cta button:hover {
+      background-color: #005bb5;
+    }
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>آئی فون 12 پرو: بہترین انتخاب!</h1>
+  <h2>والڈ سٹی کے روایتی معیار کے ساتھ جدید ٹیکنالوجی</h2>
+  
+  <h3>اہم خصوصیات:</h3>
+  <ul>
+    <li><span class="highlight">ڈیزائن:</span> شاندار اور پریمیم ڈیزائن جو مہارت اور خوبصورتی کی عکاسی کرتا ہے۔</li>
+    <li><span class="highlight">کیمرہ:</span> 12 میگا پکسل ٹرپل کیمرہ سسٹم، کم روشنی میں بھی شاندار تصاویر۔</li>
+    <li><span class="highlight">پرفارمنس:</span> A14 بایونک چپ، دنیا کی سب سے تیز موبائل پروسیسر۔</li>
+    <li><span class="highlight">ڈسپلے:</span> سپر ریٹینا XDR ڈسپلے، بے مثال تصویر کے معیار کے ساتھ۔</li>
+    <li><span class="highlight">بیٹری:</span> لمبی بیٹری لائف، پورا دن چلنے کی صلاحیت۔</li>
+    <li><span class="highlight">مضبوطی:</span> سرامک شیلڈ، جو آئی فون کو زیادہ مضبوط اور دیرپا بناتی ہے۔</li>
+  </ul>
+
+  <h3>کیوں خریدیں؟</h3>
+  <ul>
+    <li>یہ ایک سرمایہ کاری ہے جو سالوں تک چلے گی۔</li>
+    <li>آپ کی زندگی کو آسان اور جدید بنائے گا۔</li>
+    <li>روزمرہ کے کاموں میں تیزی اور سہولت فراہم کرے گا۔</li>
+    <li>خاندانی یادوں کو بہترین طریقے سے محفوظ کرنے کا ذریعہ۔</li>
+  </ul>
+
+  <div class="cta">
+    <p>اب وقت آگیا ہے کہ ہم بھی جدید دنیا کے ساتھ چلیں!</p>
+    <button onclick="alert('ابو! یہ بہترین فیصلہ ہے!')">مجھے یہ آئی فون لینے دیں</button>
+  </div>
+
+  <footer>
+    <p>پیار اور احترام کے ساتھ، آپ کا بیٹا۔ ❤️</p>
+  </footer>
+</body>
+</html>
